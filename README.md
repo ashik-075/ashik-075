@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ashik ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ashik Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **ashik1806075@gmail.com**
